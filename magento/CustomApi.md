@@ -2,7 +2,7 @@
 
 ## Description
 
-Create a module which exposes a custom API REST endpoint for Magento customer. 
+Create a module which exposes a custom API REST endpoint. This endpoint must be available for Customer and use Customer's token for authentication.
 
 ### Acceptance Criteria
 
