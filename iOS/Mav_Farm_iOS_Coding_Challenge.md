@@ -4,14 +4,15 @@
 
 ## Mav Farm iOS Coding Challenge
 
-# Mav Farm meets SpaceX
+#Mav Farm meets SpaceX
 
 We believe that the best way to gauge a developer’s skills is to inspect their work on a specific project. This gives the person a chance to show their understanding of the platform they specialized on, regardless of their social or personal skills that could interfere during an in-person interview.
 
 This exercise is a way for you to show us your skills. Here are the basics of how we will evaluate the delivered project:
 
 - Proper use of the version control system
-- Understanding of object oriented programming and iOS patterns • Good grasp of best practices in Swift
+- Understanding of object oriented programming and iOS patterns 
+- Good grasp of best practices in Swift
 - Solid understanding of UIKit, its core classes and functionality
 - Ability to work with RESTful APIs, networking integration on iOS
 
@@ -28,7 +29,7 @@ SpaceX has a public API on ​[https://github.com/r-spacex/SpaceX-API](https://g
  
 Documentation is [https://docs.spacexdata.com/?version=latest](https://docs.spacexdata.com/?version=latest)
 
-1) You’re going to get the list of upcoming launches and display the data in a table view. Displaying `mission_name`, `launch_date`, `mission_id`, `rocket_name` and showing if that rocket has any reused pieces is enough. Reused data is available inside different stages of rocket model.
+1) You’re going to get the list of upcoming launches and display the data in a table view. Displaying `mission_name`, `launch_date_*`, `mission_id`, `rocket_name` and showing if that rocket has any reused pieces is enough. Reused data is available inside different stages of rocket model.
 (The model has launch date in different formats, feel free to pick one and format it properly)
 
 `curl --request GET \ --url https://api.spacexdata.com/v3/launches/upcoming`
