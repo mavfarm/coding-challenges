@@ -4,7 +4,7 @@
 
 ## Mav Farm iOS Coding Challenge
 
-#Mav Farm meets SpaceX
+# Mav Farm meets SpaceX
 
 We believe that the best way to gauge a developer’s skills is to inspect their work on a specific project. This gives the person a chance to show their understanding of the platform they specialized on, regardless of their social or personal skills that could interfere during an in-person interview.
 
@@ -40,7 +40,7 @@ Documentation is [https://docs.spacexdata.com/?version=latest](https://docs.spac
 
 Notes:
 
-- You’re free to design the UI in a way you like.
+- You’re free to design the UI in a way you like. We'd be happy to see an elegant UI that presents good UX.
 - For the ease of implementation you do no need to build full data models for
 networking. Just including the data to be displayed is enough.
 - Details of the networking implementation are left up to you, but we do recommend using a networking library such as Alamofire.
