@@ -5,7 +5,9 @@
 There is a unique way of embedding things, we have the old traditional way with an iframe and the instagram/twitter way using blockquotes
 
 This challenge is unique, and is about re-creating a similar embed experience that Instagram provides. 
-In a nutshell, you're supposed to create a javascript code that is responsible of replacing <blockquote> tags with an iframe dynamically. 
+In a nutshell, you're supposed to create a javascript code that is responsible of replacing \<blockquote> tags with an iframe dynamically. 
+
+The whole point of this is to see how creative you can get with it, we don't expect a fully working solution but that would definitely be more bonus points for you!
 
 ### Acceptance Criteria
 
@@ -16,7 +18,7 @@ In a nutshell, you're supposed to create a javascript code that is responsible o
 
 #### Hints
 * Look at how to communicate with iframe content to parent
-* Look at how instagram does it
+* Look at how instagram does it https://www.instagram.com/p/CGjVkPwM1WG/ , click on the options and select embed.
 * Feel free to re-use one of our existing videos here: https://embed.lost.show/v3/17
 
 ### How to submit? 
